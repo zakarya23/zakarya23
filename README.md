@@ -3,11 +3,7 @@ Pleasure in the job, puts perfection in the work! Computer Scientist by passion 
 
 🔭 I’m currently working on web applications using MERN (MongoDB, Express, React, Node) stack.
 
-[linkedin]: https://www.linkedin.com/in/zakarya-butt-7a4937106/
-[email]: z4zakarya@gmail.com
-[twitter]: https://twitter.com/zakarya_butt
-<!-- 
-📫 How to reach me: Email me at z4zakarya@gmail.com -->
+📫 How to reach me: Email me at z4zakarya@gmail.com
 
 <!--
 **zakarya23/zakarya23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
