@@ -7,11 +7,18 @@ Pleasure in the job, puts perfection in the work! Computer Scientist by passion 
 
 👯 Upwork profile : https://www.upwork.com/freelancers/~01f2f7f5a79fa81636?s=1110580755107926016
 
+<h1 align="center">
+  My Stats
+</h1>
+
+
 ![Zakarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakarya23&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakarya23&layout=compact&langs_count=5&exclude_repo=fps_shooter,EinsteinsGateToTheFuture,rugby_sql,self_moving_player,map_finder&theme=radical)](https://github.com/zakarya23/github-readme-stats)
 
-## Awesome looking websites made using MERN stack: 
+<h1 align="center">
+ Awesome looking websites made using MERN stack: 
+</h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zakarya23&repo=snacks-in-a-van&theme=radical)](https://github.com/zakarya23/snacks-in-a-van)
 <br/><br/><br/>
