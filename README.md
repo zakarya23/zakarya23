@@ -7,7 +7,7 @@ Pleasure in the job, puts perfection in the work! Computer Scientist by passion 
 
 ![Zakarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakarya23&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakarya23&layout=compact&langs_count=5)](https://github.com/zakarya23/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakarya23&layout=compact&langs_count=5&exclude_repo=fps_shooter,EinsteinsGateToTheFuture)](https://github.com/zakarya23/github-readme-stats)
 <!--
 **zakarya23/zakarya23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
