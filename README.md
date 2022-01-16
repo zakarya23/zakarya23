@@ -14,6 +14,9 @@ Awesome looking websites made using MERN stack:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zakarya23&repo=snacks-in-a-van)](https://github.com/zakarya23/snacks-in-a-van)
 <br/><br/><br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zakarya23&repo=proshop_ecommerce)](https://github.com/zakarya23/snacks-in-a-van)
+<br/><br/><br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zakarya23&repo=chetohs_crm)](https://github.com/zakarya23/snacks-in-a-van)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zakarya23&repo=chetohs_be)](https://github.com/zakarya23/snacks-in-a-van)
 <!--
 **zakarya23/zakarya23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
