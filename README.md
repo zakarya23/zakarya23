@@ -10,7 +10,7 @@ Pleasure in the job, puts perfection in the work! Computer Scientist by passion 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakarya23&layout=compact&langs_count=5&exclude_repo=fps_shooter,EinsteinsGateToTheFuture,rugby_sql,self_moving_player,map_finder)](https://github.com/zakarya23/github-readme-stats)
 
 Awesome looking websites made using MERN stack: 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zakarya23snacks-in-a-van&repo=github-readme-stats)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zakarya23snacks-in-a-van&repo=github-readme-stats)](https://github.com/zakarya23/snacks-in-a-van)
 <!--
 **zakarya23/zakarya23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
