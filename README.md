@@ -5,8 +5,8 @@ Pleasure in the job, puts perfection in the work! Computer Scientist by passion 
 
 📫 How to reach me: Email me at z4zakarya@gmail.com
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakarya23)](https://github.com/zakary23/github-readme-stats)
+![Zakarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakarya23&show_icons=true&theme=radical)
+[![Zakarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakarya23)](https://github.com/zakary23/github-readme-stats)
 <!--
 **zakarya23/zakarya23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
