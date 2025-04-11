@@ -1,11 +1,27 @@
 # 👋🏼  Hey, Welcome to Zakarya's GitHub!
-Pleasure in the job, puts perfection in the work! Computer Scientist by passion and profession, with a dream to make this world a better place using the breath taking power of technology!
+Hybrid Mobile App Developer | Flutter | React Native | FlutterFlow MVP
 
-🔭 I’m currently freelancing, working on web applications using MERN (MongoDB, Express, React, Node) stack.
+Passionate about leveraging technology to create impactful mobile experiences, I specialize in hybrid mobile app development with Flutter, React Native, and FlutterFlow. With 5+ years of experience, I focus on building fast, scalable, and intuitive apps that deliver native-like performance across iOS and Android.
 
-📫 How to reach me: Email me at z4zakarya@gmail.com
+Currently freelancing, I help startups and enterprises build, scale, and deploy mobile applications that are cleanly coded and optimized for performance.
 
-👯 Upwork profile : https://www.upwork.com/freelancers/~01f2f7f5a79fa81636?s=1110580755107926016
+🔧 What I Bring to the Table:
+
+Hybrid mobile app development with Flutter, React Native, and FlutterFlow
+
+MVP development, product ideation, and scalable architecture
+
+Firebase, Supabase, AWS Amplify, GraphQL, REST APIs
+
+Cross-platform apps with seamless user experiences and high performance
+
+App deployment to App Store & Play Store with ASO (App Store Optimization)
+
+📫 How to Reach Me:
+
+Email: z4zakarya@gmail.com
+
+Upwork: [Upwork Profile](https://www.upwork.com/freelancers/~01f2f7f5a79fa81636?nav_dir=pop&s=996364627857502209)
 
 <h1 align="center">
   My Stats
